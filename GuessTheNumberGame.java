@@ -1,3 +1,7 @@
+//This code is owned by Aditi Ray
+//Guess The Number Game is a game where you have to guess the correct number randomly initialized by the compiler.
+//Happy Gaming!
+
 package com.company;
 import java.util.*;
 
