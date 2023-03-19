@@ -1,3 +1,7 @@
+//This Code is owned by Aditi Ray
+//It is a Program which asks Name, Number of Subjects, Total Marks and Marks in Each Subject and Returns the Percentage 
+//Happy Coding!
+
 package com.company;
 import java.util.Scanner;
 
